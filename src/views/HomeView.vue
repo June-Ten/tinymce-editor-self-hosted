@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      content: '',
+      content: '<p>Hello, world!</p>',
     }
   }
 }
